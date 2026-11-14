@@ -1,0 +1,7 @@
+# Exact versions used to produce the distributed results
+# (generated from the tested environment; use with: pip install -r requirements-lock.txt)
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.8
+openpyxl==3.1.5

@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite this repository and the associated article. A Zenodo DOI will be added upon acceptance of the article."
+type: software
+title: "Extraordinary intelligence and the shared care of infants: analysis code and data"
+version: 1.1.0
+date-released: 2026-11-14
+license: MIT
+authors:
+  - family-names: Grossmann
+    given-names: Tobias
+    orcid: "https://orcid.org/0000-0002-1116-6423"
+    affiliation: "Department of Psychology, University of Virginia"
+repository-code: "https://github.com/tg3ny/extraordinary_intelligence_shared_care"
+keywords:
+  - brain evolution
+  - cooperative breeding
+  - life history
+  - human childhood
+  - phylogenetic comparative methods
+  - Piantadosi and Kidd model
+abstract: >-
+  Reproducibility package for a study that reproduces the Piantadosi and Kidd (2016)
+  runaway selection model of human intelligence, extends it with a single shared-care
+  term, derives in closed form that the private survival benefit of parental intelligence
+  scales as the inverse square of total care, calibrates the effect dimensionlessly,
+  validates the simulation against a reference implementation, reanalyzes the supporting
+  cross-species correlation with phylogenetic methods, and places the result against
+  hominin fossil evidence on body mass, brain size, and helpless infancy.
+preferred-citation:
+  type: article
+  title: "Extraordinary intelligence and the shared care of infants"
+  authors:
+    - family-names: Grossmann
+      given-names: Tobias
+      orcid: "https://orcid.org/0000-0002-1116-6423"
+  year: 2026
+  notes: "Manuscript submitted."

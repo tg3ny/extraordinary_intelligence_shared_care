@@ -1,0 +1,11 @@
+Data, figures, and documentation in this repository (the contents of data/, figures/,
+and the Markdown files) are released under the Creative Commons Attribution 4.0
+International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Third-party data are redistributed under their original terms with attribution:
+- data/puschel2024_specimen_data_sd04.xlsx is Dataset S4 of Püschel et al. (2024),
+  Proc. Natl. Acad. Sci. U.S.A. 121, e2409542121 (CC BY 4.0).
+- data/pantheria_primates.tsv is an extract of PanTHERIA, Jones et al. (2009),
+  Ecology 90, 2648 (Ecological Archives E090-184).
+- data/gardner_taxon_bodymass.csv is derived from Gardner et al. (2026),
+  Proc. Natl. Acad. Sci. U.S.A. 123, e2521732123.

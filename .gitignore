@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+figures/regenerated/
+code/*.png
+code/*.pdf
+code/*.csv
+.DS_Store
